@@ -1,5 +1,5 @@
 import sqlite3
-conn = sqlite3.connect('Part2/zad1.db')
+conn = sqlite3.connect('Part2/zad2.db')
 cur = conn.cursor()
 data = {
 ('Рига','скорый','15:45','Рижский'),
